@@ -1,0 +1,11 @@
+{
+	"name": “Breaking Good Space”,
+	"website": "https://breakingood.space/“,
+	"description": "This project aims to support those who got broken badly and lost their houses due to inhumanity and not stupidity.",
+	"explorer": "https://bscscan.com/token/0x4c367718a96f69172abf0f63d956ff715acd2191",
+	"type": "BEP20",
+	"symbol": “BGOS”,
+	"decimals": 18,
+	"status": "active",
+	"id": "0x4c367718a96f69172abf0f63d956ff715acd2191"
+}
